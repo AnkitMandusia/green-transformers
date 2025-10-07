@@ -64,3 +64,6 @@ jupyter notebook
 ```
 #### 2. Open and Run a Notebook:
 Navigate to the desired notebook file (e.g., hybrid_neuromorphic.ipynb) in the Jupyter interface. You can run the cells sequentially by clicking "Run" or using the shortcut Shift + Enter.
+
+## 4. License
+This project is licensed under the MIT License. See the LICENSE file for details.
